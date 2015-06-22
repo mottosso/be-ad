@@ -1,4 +1,6 @@
 {
     "schema_version" : "0.0.1",
-    "type" : "bepreset"
+    "type" : "bepreset",
+    "description": "A generic advertisement project configuration",
+    "thumbnail": "thumbnail.png"
 }
