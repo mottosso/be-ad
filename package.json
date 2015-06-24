@@ -5,8 +5,8 @@
     "thumbnail": "thumbnail.png",
     "link": "https://github.com/mottosso/be-ad",
     "contents": [
-        "skeleton",
-        "inventory.yaml",
-        "templates.yaml"
+        "assets",
+        "shots",
+        "shared"
     ]
 }
