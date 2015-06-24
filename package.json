@@ -3,5 +3,10 @@
     "type" : "bepreset",
     "description": "A generic advertisement project configuration",
     "thumbnail": "thumbnail.png",
-    "link": "https://github.com/mottosso/be-ad"
+    "link": "https://github.com/mottosso/be-ad",
+    "contents": [
+        "skeleton",
+        "inventory.yaml",
+        "templates.yaml"
+    ]
 }
