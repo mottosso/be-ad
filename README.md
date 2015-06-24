@@ -8,7 +8,7 @@ A `be` project preset for advertisements.
 
 ### Introduction
 
-This preset defines a generic set of patterns common in the production of animated advertisements. It is provided as a foundation from which to build more complex configuration more suitable for your particular environment.
+This preset defines a generic set of patterns common in the production of animated advertisements. It is provided as a foundation from which to build more complex configuration more suitable to your particular environment.
 
 ### Content
 
@@ -20,6 +20,7 @@ $ tree
     ├── assets
     ├── shots
     └── shared
+        └── scripts
 ```
 
 Upon entering the project, a development directory will be created corresponding to the 2 types of inventory items - `asset` and `shot`.
@@ -34,3 +35,5 @@ $ tree
 ├── shots
 └── shared
 ```
+
+The shared directory is where production and content creators unite and share information, such as deliverables.
